@@ -1,6 +1,10 @@
 # Используем официальный образ Python 3.8
 FROM python:3.8-slim-buster
 
+MAINTAINER "Dmitry <7292337@gmail.com>"
+LABEL version="1.0"
+LABEL description="Flask Web for HH Requests"
+
 # Устанавливаем рабочую директорию в контейнере
 WORKDIR /app
 
