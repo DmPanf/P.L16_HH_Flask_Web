@@ -1,3 +1,4 @@
+# Измененная версия от первоначальной с учетом добавления Flask
 #from pprint import pprint
 from pickle import dump, load
 from os.path import exists
