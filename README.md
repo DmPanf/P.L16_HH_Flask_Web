@@ -1,4 +1,5 @@
 # Python_P.L16
+- **`docker-compose up --build`**
 
 ## Основные этапы развертывания проекта:
 
